@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Aluno/Documents/NetBeansProjects/Aulas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Aluno/Documents/NetBeansProjects/Aulas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Aulas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Aulas 1.0-SNAPSHOT API'
+com.mycompany.aulas
+herança
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\src\main\java = 1695319656445
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\allclasses-index.html = 1695319732521
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\allpackages-index.html = 1695319732535
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\copy.svg = 1695319732675
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\element-list = 1695319732357
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\help-doc.html = 1695319732636
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\index-all.html = 1695319732601
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\index.html = 1695319732500
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\jquery-ui.overrides.css = 1695319733117
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\member-search-index.js = 1695319732577
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\module-search-index.js = 1695319732552
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\overview-summary.html = 1695319732623
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\overview-tree.html = 1695319732485
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\package-search-index.js = 1695319732561
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\script.js = 1695319732664
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\search-page.js = 1695319732715
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\search.html = 1695319732613
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\search.js = 1695319732703
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\stylesheet.css = 1695319732653
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\tag-search-index.js = 1695319732586
+C:\Users\Aluno\Documents\NetBeansProjects\Aulas\target\site\apidocs\type-search-index.js = 1695319732568
